@@ -1,0 +1,71 @@
+about:
+  description: Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 
+  license: NOASSERTION
+  homepage: https://openclaw.ai
+  head: dc73b1a
+  archived: false
+  latestVersion: v2026.8.2
+  collectedAt: 2026-09-03T05:23:19Z
+timeline:
+  created: 2025-11-24
+  lastCommit: 2026-09-03
+  lastRelease: 2026-09-01
+popularity:
+  star: 388667
+  watcher: 1753
+  fork: 81620
+  release: 238
+  contributor: 2994
+  pullRequest: 51221
+  issue: 50662
+language:
+  TypeScript: 318564801
+  Swift: 16209627
+  Kotlin: 6946821
+  JavaScript: 3510013
+  Shell: 2141929
+  CSS: 1476248
+  Python: 875126
+  Rust: 431994
+  Go: 349782
+  Ruby: 103008
+  PowerShell: 89145
+  HTML: 39576
+  Dockerfile: 38345
+  Objective-C: 13596
+  Lobster: 2634
+  C: 774
+totalLine: 350793419
+recent:
+  last30d:
+    since: 2026-08-04
+    release: 9
+    mergedPR: 9822
+    openPR: 1562
+    closedIssue: 3200
+    openIssue: 1536
+    commit: 11113
+  last90d:
+    since: 2026-06-05
+    release: 41
+    mergedPR: 22148
+    openPR: 2271
+    closedIssue: 9082
+    openIssue: 2560
+    commit: 33145
+  last180d:
+    since: 2026-03-07
+    release: 100
+    mergedPR: 29715
+    openPR: 2406
+    closedIssue: 31190
+    openIssue: 3460
+    commit: 73925
+  last360d:
+    since: 2025-09-08
+    release: 100
+    mergedPR: 32657
+    openPR: 2409
+    closedIssue: 46962
+    openIssue: 3700
+    commit: 93146
