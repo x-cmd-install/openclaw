@@ -4,27 +4,27 @@ about:
     The AI that really does things. Any OS. Any Platform. The lobster way. 🦞 
   license: NOASSERTION
   homepage: https://openclaw.ai
-  head: c939bf6
+  head: 93450a6
   archived: false
   latestVersion: v2026.9.1
-  collectedAt: 2026-09-04T20:09:22Z
+  collectedAt: 2026-09-04T20:36:53Z
 timeline:
   created: 2025-11-24
   lastCommit: 2026-09-04
   lastRelease: 2026-09-03
 popularity:
-  star: 388853
+  star: 388854
   watcher: 1750
   fork: 81683
   release: 239
-  contributor: 3005
-  pullRequest: 84981
-  issue: 51099
+  contributor: 3006
+  pullRequest: 84992
+  issue: 51108
 language:
-  TypeScript: 325952332
-  Swift: 17147395
+  TypeScript: 326144237
+  Swift: 17147595
   Kotlin: 7107841
-  JavaScript: 3608511
+  JavaScript: 3610438
   Shell: 2180114
   CSS: 1495130
   Python: 893425
@@ -37,75 +37,75 @@ language:
   Objective-C: 13596
   Lobster: 2634
   C: 774
-totalBytes: 359476520
+totalBytes: 359670552
 recent:
   last30d:
     since: 2026-08-05
     release: 8
-    mergedPR: 10416
-    openPR: 1661
-    closedIssue: 3425
-    openIssue: 1632
-    commit: 11927
+    mergedPR: 10437
+    openPR: 1650
+    closedIssue: 3432
+    openIssue: 1634
+    commit: 11949
   last60d:
     since: 2026-07-06
     release: 19
-    mergedPR: 20059
-    openPR: 2261
-    closedIssue: 6900
-    openIssue: 2415
-    commit: 25595
+    mergedPR: 20080
+    openPR: 2250
+    closedIssue: 6907
+    openIssue: 2417
+    commit: 25617
   last90d:
     since: 2026-06-06
     release: 42
-    mergedPR: 22869
-    openPR: 2354
-    closedIssue: 9310
-    openIssue: 2675
-    commit: 33959
+    mergedPR: 22890
+    openPR: 2343
+    closedIssue: 9317
+    openIssue: 2677
+    commit: 33981
   last180d:
     since: 2026-03-08
     release: 100
-    mergedPR: 30404
-    openPR: 2488
-    closedIssue: 31096
-    openIssue: 3561
-    commit: 74739
+    mergedPR: 30425
+    openPR: 2477
+    closedIssue: 31103
+    openIssue: 3563
+    commit: 74761
   last360d:
     since: 2025-09-09
     release: 100
-    mergedPR: 33432
-    openPR: 2491
-    closedIssue: 47279
-    openIssue: 3820
-    commit: 93960
+    mergedPR: 33453
+    openPR: 2480
+    closedIssue: 47286
+    openIssue: 3822
+    commit: 93982
   last720d:
     since: 2024-09-14
     release: 100
-    mergedPR: 33432
-    openPR: 2491
-    closedIssue: 47279
-    openIssue: 3820
-    commit: 87874
+    mergedPR: 33453
+    openPR: 2480
+    closedIssue: 47286
+    openIssue: 3822
+    commit: 87895
 total:
   release: 239
-  mergedPR: 33451
-  openPR: 2491
-  closedIssue: 47279
-  openIssue: 3820
-  commit: 87874
+  mergedPR: 33472
+  openPR: 2480
+  closedIssue: 47286
+  openIssue: 3822
+  commit: 87895
 ---
 path: /home/runner/.x-repo/github.com/openclaw/openclaw
-collectedAt: 2026-09-04T20:12:45Z
+collectedAt: 2026-09-04T20:40:48Z
 loc:
   TypeScript:
-    code: 8315528
-    comments: 181793
-    blanks: 612260
-    files: 30635
+    code: 8319926
+    comments: 182122
+    blanks: 612419
+    files: 30696
   Swift:
-    code: 382893
-    comments: 6856
+    code: 382894
+    comments: 6858
     blanks: 38313
     files: 1231
   Kotlin:
@@ -114,9 +114,9 @@ loc:
     blanks: 17391
     files: 473
   JavaScript:
-    code: 85333
-    comments: 3103
-    blanks: 4996
+    code: 85380
+    comments: 3106
+    blanks: 4998
     files: 396
   Xml:
     code: 60148
@@ -134,7 +134,7 @@ loc:
     blanks: 9413
     files: 110
   Json:
-    code: 54508
+    code: 54562
     comments: 0
     blanks: 13
     files: 609
@@ -225,18 +225,18 @@ loc:
     files: 2
   Markdown:
     code: 0
-    comments: 222299
-    blanks: 50224
+    comments: 222376
+    blanks: 50241
     files: 1031
   Text:
     code: 0
-    comments: 13760
+    comments: 13755
     blanks: 2047
     files: 214
 total:
-  code: 9299099
-  comments: 437367
-  blanks: 744126
-  files: 35938
+  code: 9303601
+  comments: 437773
+  blanks: 744304
+  files: 35999
 ---
 
