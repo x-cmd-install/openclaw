@@ -1,0 +1,248 @@
+about:
+  description: "The AI that really does things. Any OS. Any Platform. The lobster way. 🦞 "
+  license: NOASSERTION
+  homepage: https://openclaw.ai
+  head: 48d1551
+  archived: false
+  latestVersion: "v2026.9.2"
+  collectedAt: 2026-09-08T02:00:53Z
+timeline:
+  created: 2025-11-24
+  lastCommit: 2026-09-08
+  lastRelease: 2026-09-05
+popularity:
+  star: 389147
+  watcher: 1749
+  fork: 81774
+  release: 240
+  contributor: 3041
+  pullRequest: 87458
+  issue: 51796
+language:
+  TypeScript: 342829170
+  Swift: 16653151
+  Kotlin: 7672037
+  JavaScript: 3759245
+  Shell: 2263140
+  CSS: 1525709
+  Python: 1015153
+  Rust: 462509
+  Go: 358095
+  Ruby: 114112
+  PowerShell: 89029
+  Dockerfile: 40429
+  HTML: 39866
+  Objective-C: 13596
+  C: 3306
+  Lobster: 2776
+totalBytes: 376841323
+recent:
+  last30d:
+    since: 2026-08-09
+    release: 7
+    mergedPR: 11875
+    openPR: 1500
+    closedIssue: 3579
+    openIssue: 1772
+    commit: 11890
+  last60d:
+    since: 2026-07-10
+    release: 20
+    mergedPR: 21225
+    openPR: 2101
+    closedIssue: 6809
+    openIssue: 2533
+    commit: 23949
+  last90d:
+    since: 2026-06-10
+    release: 37
+    mergedPR: 24847
+    openPR: 2213
+    closedIssue: 9461
+    openIssue: 2841
+    commit: 35470
+  last180d:
+    since: 2026-03-12
+    release: 100
+    mergedPR: 32389
+    openPR: 2331
+    closedIssue: 30089
+    openIssue: 3657
+    commit: 75285
+  last360d:
+    since: 2025-09-13
+    release: 100
+    mergedPR: 35663
+    openPR: 2333
+    closedIssue: 47817
+    openIssue: 3979
+    commit: 96486
+  last720d:
+    since: 2024-09-18
+    release: 100
+    mergedPR: 35663
+    openPR: 2333
+    closedIssue: 47817
+    openIssue: 3979
+    commit: 90099
+total:
+  release: 240
+  mergedPR: 35682
+  openPR: 2333
+  closedIssue: 47817
+  openIssue: 3979
+  commit: 90099
+---
+path: /home/runner/.x-repo/github.com/openclaw/openclaw
+collectedAt: 2026-09-08T02:07:25Z
+loc:
+  TypeScript:
+    code: 8711209
+    comments: 187486
+    blanks: 623779
+    files: 32136
+  Swift:
+    code: 368805
+    comments: 6943
+    blanks: 36565
+    files: 1253
+  Kotlin:
+    code: 193850
+    comments: 3561
+    blanks: 18034
+    files: 495
+  JavaScript:
+    code: 89258
+    comments: 3224
+    blanks: 5146
+    files: 421
+  Yaml:
+    code: 60374
+    comments: 319
+    blanks: 841
+    files: 577
+  Css:
+    code: 56684
+    comments: 2642
+    blanks: 9654
+    files: 114
+  Json:
+    code: 56533
+    comments: 0
+    blanks: 13
+    files: 624
+  Sh:
+    code: 52907
+    comments: 1796
+    blanks: 4933
+    files: 247
+  Xml:
+    code: 44350
+    comments: 34
+    blanks: 18
+    files: 124
+  Rust:
+    code: 12127
+    comments: 186
+    blanks: 910
+    files: 22
+  Go:
+    code: 9985
+    comments: 27
+    blanks: 1062
+    files: 30
+  Python:
+    code: 5385
+    comments: 156
+    blanks: 641
+    files: 26
+  Sql:
+    code: 2937
+    comments: 93
+    blanks: 329
+    files: 2
+  PowerShell:
+    code: 2238
+    comments: 13
+    blanks: 53
+    files: 1
+  Svg:
+    code: 1009
+    comments: 56
+    blanks: 13
+    files: 185
+  Bash:
+    code: 640
+    comments: 84
+    blanks: 43
+    files: 8
+  Dockerfile:
+    code: 540
+    comments: 157
+    blanks: 100
+    files: 11
+  Html:
+    code: 522
+    comments: 4
+    blanks: 26
+    files: 9
+  ObjectiveC:
+    code: 377
+    comments: 4
+    blanks: 32
+    files: 1
+  Toml:
+    code: 340
+    comments: 35
+    blanks: 51
+    files: 19
+  CHeader:
+    code: 65
+    comments: 10
+    blanks: 10
+    files: 2
+  Batch:
+    code: 64
+    comments: 0
+    blanks: 18
+    files: 1
+  XcodeConfig:
+    code: 45
+    comments: 11
+    blanks: 11
+    files: 2
+  Autoconf:
+    code: 23
+    comments: 5
+    blanks: 4
+    files: 1
+  Prolog:
+    code: 10
+    comments: 0
+    blanks: 0
+    files: 2
+  Markdown:
+    code: 0
+    comments: 236285
+    blanks: 53654
+    files: 1151
+  Text:
+    code: 0
+    comments: 22959
+    blanks: 4954
+    files: 216
+total:
+  code: 9688578
+  comments: 466795
+  blanks: 761501
+  files: 37680
+---
+
+---
+platform	name	url	size	score
+darwin/arm64			
+darwin/amd64			
+linux/arm64			
+linux/amd64			
+win/arm64			
+win/amd64			
