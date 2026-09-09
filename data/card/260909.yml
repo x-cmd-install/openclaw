@@ -2,12 +2,12 @@ about:
   description: "The AI that really does things. Any OS. Any Platform. The lobster way. 🦞 "
   license: NOASSERTION
   homepage: https://openclaw.ai
-  head: 9636ae4
+  head: 9b99c61
   archived: false
   latestVersion: "v2026.9.3"
   latestRelease: "v2026.9.3"
   latestPrerelease: "v2026.9.1-beta.1"
-  collectedAt: 2026-09-09T04:53:14Z
+  collectedAt: 2026-09-09T19:05:07Z
 timeline:
   created: 2025-11-24
   lastCommit: 2026-09-09
@@ -15,140 +15,140 @@ timeline:
   lastRelease: 2026-09-08
   lastPrerelease: 2026-08-28
 popularity:
-  star: 389262
+  star: 389299
   watcher: 1751
-  fork: 81799
+  fork: 81816
   release: 241
-  contributor: 3057
-  pullRequest: 88254
-  issue: 52073
+  contributor: 3064
+  pullRequest: 88613
+  issue: 52213
 language:
-  TypeScript: 345814865
-  Swift: 16738379
-  Kotlin: 7968040
-  JavaScript: 3811515
-  Shell: 2308820
-  CSS: 1542208
-  Python: 1030216
-  Rust: 462509
+  TypeScript: 348034936
+  Swift: 16739423
+  Kotlin: 7972391
+  JavaScript: 3847283
+  Shell: 2325080
+  CSS: 1539418
+  Python: 1053132
+  Rust: 512592
   Go: 358095
   Ruby: 114112
-  PowerShell: 89029
+  PowerShell: 93608
   Dockerfile: 40523
   HTML: 39866
   Objective-C: 13596
   C: 3306
   Lobster: 2776
-totalBytes: 380337855
+totalBytes: 382690137
 recent:
   last30d:
     since: 2026-08-10
     release: 8
-    mergedPR: 12304
-    openPR: 1501
-    closedIssue: 3661
-    openIssue: 1858
-    commit: 12629
+    mergedPR: 12600
+    openPR: 1533
+    closedIssue: 3743
+    openIssue: 1916
+    commit: 12889
   last60d:
     since: 2026-07-11
     release: 21
-    mergedPR: 21494
-    openPR: 2106
-    closedIssue: 6804
-    openIssue: 2621
-    commit: 24688
+    mergedPR: 21791
+    openPR: 2129
+    closedIssue: 6886
+    openIssue: 2679
+    commit: 24948
   last90d:
     since: 2026-06-11
     release: 37
-    mergedPR: 25507
-    openPR: 2219
-    closedIssue: 9557
-    openIssue: 2939
-    commit: 36209
+    mergedPR: 25804
+    openPR: 2242
+    closedIssue: 9639
+    openIssue: 2997
+    commit: 36469
   last180d:
     since: 2026-03-13
     release: 100
-    mergedPR: 33040
-    openPR: 2340
-    closedIssue: 29765
-    openIssue: 3741
-    commit: 76024
+    mergedPR: 33337
+    openPR: 2363
+    closedIssue: 29849
+    openIssue: 3797
+    commit: 76284
   last360d:
     since: 2025-09-14
     release: 100
-    mergedPR: 36375
-    openPR: 2342
-    closedIssue: 47992
-    openIssue: 4081
-    commit: 97225
+    mergedPR: 36672
+    openPR: 2365
+    closedIssue: 48076
+    openIssue: 4137
+    commit: 97485
   last720d:
     since: 2024-09-19
     release: 100
-    mergedPR: 36375
-    openPR: 2342
-    closedIssue: 47992
-    openIssue: 4081
-    commit: 90790
+    mergedPR: 36672
+    openPR: 2365
+    closedIssue: 48076
+    openIssue: 4137
+    commit: 91087
 total:
   release: 241
-  mergedPR: 36394
-  openPR: 2342
-  closedIssue: 47992
-  openIssue: 4081
-  commit: 90790
+  mergedPR: 36691
+  openPR: 2365
+  closedIssue: 48076
+  openIssue: 4137
+  commit: 91087
 ---
 path: /home/runner/.x-repo/github.com/openclaw/openclaw
-collectedAt: 2026-09-09T05:00:24Z
+collectedAt: 2026-09-09T19:12:56Z
 loc:
   TypeScript:
-    code: 8780276
-    comments: 188303
-    blanks: 626508
-    files: 32350
+    code: 8832815
+    comments: 188922
+    blanks: 628276
+    files: 32467
   Swift:
-    code: 370475
-    comments: 6982
+    code: 370498
+    comments: 6981
     blanks: 36666
     files: 1256
   Kotlin:
-    code: 200079
-    comments: 3583
-    blanks: 18412
+    code: 200187
+    comments: 3584
+    blanks: 18423
     files: 498
   JavaScript:
-    code: 90447
-    comments: 3262
-    blanks: 5175
-    files: 426
+    code: 91771
+    comments: 3280
+    blanks: 5190
+    files: 430
   Yaml:
     code: 60773
     comments: 319
     blanks: 846
     files: 579
   Json:
-    code: 58136
+    code: 58668
     comments: 0
     blanks: 13
     files: 625
   Css:
-    code: 57264
+    code: 57136
     comments: 2654
-    blanks: 9760
+    blanks: 9747
     files: 115
   Sh:
-    code: 53523
-    comments: 1907
-    blanks: 4946
-    files: 246
+    code: 53842
+    comments: 1908
+    blanks: 4979
+    files: 248
   Xml:
-    code: 45619
+    code: 45597
     comments: 34
     blanks: 18
     files: 124
   Rust:
-    code: 12127
-    comments: 186
-    blanks: 910
+    code: 13280
+    comments: 200
+    blanks: 976
     files: 22
   Go:
     code: 9985
@@ -156,17 +156,17 @@ loc:
     blanks: 1062
     files: 30
   Python:
-    code: 5385
-    comments: 156
-    blanks: 641
-    files: 26
+    code: 5832
+    comments: 173
+    blanks: 680
+    files: 27
   Sql:
     code: 2938
     comments: 93
     blanks: 329
     files: 2
   PowerShell:
-    code: 2238
+    code: 2336
     comments: 13
     blanks: 53
     files: 1
@@ -227,19 +227,19 @@ loc:
     files: 2
   Markdown:
     code: 0
-    comments: 245034
-    blanks: 55565
-    files: 1285
+    comments: 250427
+    blanks: 56144
+    files: 1537
   Text:
     code: 0
-    comments: 23013
+    comments: 23006
     blanks: 4954
     files: 219
 total:
-  code: 9771257
-  comments: 476638
-  blanks: 766772
-  files: 38045
+  code: 9827691
+  comments: 482696
+  blanks: 769272
+  files: 38421
 ---
 
 ---
