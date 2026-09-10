@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 41624,
       "digest": "sha256:1f59553a5f4a0138ef886775277ab57b7d5378aa409d9db56ae5e6cad11b4143",
-      "download_count": 94,
+      "download_count": 116,
       "created_at": "2026-09-08T19:18:14Z",
       "updated_at": "2026-09-08T19:18:14Z",
       "browser_download_url": "https://github.com/openclaw/openclaw/releases/download/v2026.9.3/openclaw-2026.9.3-clawhub-verification.json"
@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 110,
       "digest": "sha256:65c00597e2e6f0aafb78a4656ee7f66b258af41f2d209f13127ce52a52608cd9",
-      "download_count": 61,
+      "download_count": 76,
       "created_at": "2026-09-08T19:18:14Z",
       "updated_at": "2026-09-08T19:18:14Z",
       "browser_download_url": "https://github.com/openclaw/openclaw/releases/download/v2026.9.3/openclaw-2026.9.3-clawhub-verification.json.sha256"
@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 298386,
       "digest": "sha256:bb642095a98ab80185b7d78261c0bba4befd567915882f8267eeea6241b3f207",
-      "download_count": 623,
+      "download_count": 686,
       "created_at": "2026-09-08T14:12:08Z",
       "updated_at": "2026-09-08T14:12:08Z",
       "browser_download_url": "https://github.com/openclaw/openclaw/releases/download/v2026.9.3/openclaw-2026.9.3-dependency-evidence.zip"
@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 108,
       "digest": "sha256:5aafe7afd3eb7e6669e2e112ece50a1ce2364994733a23d4cfe84849b1424b7a",
-      "download_count": 62,
+      "download_count": 76,
       "created_at": "2026-09-08T14:12:08Z",
       "updated_at": "2026-09-08T14:12:09Z",
       "browser_download_url": "https://github.com/openclaw/openclaw/releases/download/v2026.9.3/openclaw-2026.9.3-dependency-evidence.zip.sha256"
@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 2193,
       "digest": "sha256:f2af2a0a0b8c12ebb663ef39e575abf75ee7bd018f94c4c9db232cbc65d6ecf0",
-      "download_count": 661,
+      "download_count": 721,
       "created_at": "2026-09-08T14:12:08Z",
       "updated_at": "2026-09-08T14:12:09Z",
       "browser_download_url": "https://github.com/openclaw/openclaw/releases/download/v2026.9.3/openclaw-2026.9.3-postpublish-evidence.json"
@@ -247,7 +247,7 @@
       "state": "uploaded",
       "size": 110,
       "digest": "sha256:c5f1ad2579e7e38062d346326ec6cf88b312c3c83d10d542844192322bb2c1ed",
-      "download_count": 598,
+      "download_count": 648,
       "created_at": "2026-09-08T14:12:08Z",
       "updated_at": "2026-09-08T14:12:08Z",
       "browser_download_url": "https://github.com/openclaw/openclaw/releases/download/v2026.9.3/openclaw-2026.9.3-postpublish-evidence.json.sha256"
@@ -283,7 +283,7 @@
       "state": "uploaded",
       "size": 2542,
       "digest": "sha256:566234dc632a94f3b720e025aacdccebb42376ff8ebdc5c970f05b161bc6f856",
-      "download_count": 81,
+      "download_count": 99,
       "created_at": "2026-09-08T14:12:08Z",
       "updated_at": "2026-09-08T14:12:08Z",
       "browser_download_url": "https://github.com/openclaw/openclaw/releases/download/v2026.9.3/openclaw-2026.9.3-published-core-crypto-verification.json"
@@ -319,7 +319,7 @@
       "state": "uploaded",
       "size": 124,
       "digest": "sha256:53ad2513df78431d6ce7b6187de2a8cb2973f5d6f32d019b9dc4d0c545c4585d",
-      "download_count": 64,
+      "download_count": 81,
       "created_at": "2026-09-08T14:12:09Z",
       "updated_at": "2026-09-08T14:12:09Z",
       "browser_download_url": "https://github.com/openclaw/openclaw/releases/download/v2026.9.3/openclaw-2026.9.3-published-core-crypto-verification.json.sha256"
@@ -355,7 +355,7 @@
       "state": "uploaded",
       "size": 4276,
       "digest": "sha256:c8cfea1f8447460518c22825b7f56e9ee2beeb5dee46cf590c181d718e4cecd9",
-      "download_count": 141,
+      "download_count": 171,
       "created_at": "2026-09-08T14:12:09Z",
       "updated_at": "2026-09-08T14:12:09Z",
       "browser_download_url": "https://github.com/openclaw/openclaw/releases/download/v2026.9.3/openclaw-2026.9.3-published-core-verification.json"
@@ -391,7 +391,7 @@
       "state": "uploaded",
       "size": 117,
       "digest": "sha256:e52a8f3e7c825f3c52d7c2005721db076e4fdf5e6eb6cb407e9a6a1553d717ec",
-      "download_count": 68,
+      "download_count": 83,
       "created_at": "2026-09-08T14:12:09Z",
       "updated_at": "2026-09-08T14:12:09Z",
       "browser_download_url": "https://github.com/openclaw/openclaw/releases/download/v2026.9.3/openclaw-2026.9.3-published-core-verification.json.sha256"
@@ -427,7 +427,7 @@
       "state": "uploaded",
       "size": 2651,
       "digest": "sha256:b42fe19ac7b27942bac111441ec568513a43413595396b32bc3b225d422466b8",
-      "download_count": 71,
+      "download_count": 85,
       "created_at": "2026-09-08T14:12:09Z",
       "updated_at": "2026-09-08T14:12:09Z",
       "browser_download_url": "https://github.com/openclaw/openclaw/releases/download/v2026.9.3/openclaw-2026.9.3-published-core-verification.md"
@@ -463,7 +463,7 @@
       "state": "uploaded",
       "size": 115,
       "digest": "sha256:f5edec5831bbf9f793256baa59bd1469f6aa52b581e9124022cac17dbe4ab9ed",
-      "download_count": 64,
+      "download_count": 76,
       "created_at": "2026-09-08T14:12:09Z",
       "updated_at": "2026-09-08T14:12:09Z",
       "browser_download_url": "https://github.com/openclaw/openclaw/releases/download/v2026.9.3/openclaw-2026.9.3-published-core-verification.md.sha256"
@@ -499,7 +499,7 @@
       "state": "uploaded",
       "size": 131464,
       "digest": "sha256:715851e1134c1d0e710493359bf970af0cf360e2a767994799e70d0fc70ed5e8",
-      "download_count": 737,
+      "download_count": 827,
       "created_at": "2026-09-08T14:12:09Z",
       "updated_at": "2026-09-08T14:12:10Z",
       "browser_download_url": "https://github.com/openclaw/openclaw/releases/download/v2026.9.3/openclaw-2026.9.3-release-manifest.json"
@@ -535,7 +535,7 @@
       "state": "uploaded",
       "size": 106,
       "digest": "sha256:23fbf51ea6c47874587f7864fe1f1f3f3cf3902aa424dc78c2b54a9ab5422cd7",
-      "download_count": 613,
+      "download_count": 663,
       "created_at": "2026-09-08T14:12:10Z",
       "updated_at": "2026-09-08T14:12:10Z",
       "browser_download_url": "https://github.com/openclaw/openclaw/releases/download/v2026.9.3/openclaw-2026.9.3-release-manifest.json.sha256"
@@ -571,7 +571,7 @@
       "state": "uploaded",
       "size": 7452,
       "digest": "sha256:c26d9b8109d0b2543068549f5326042043a1419f89e9ebc082d756c68cbab4f0",
-      "download_count": 610,
+      "download_count": 661,
       "created_at": "2026-09-08T17:27:59Z",
       "updated_at": "2026-09-08T17:27:59Z",
       "browser_download_url": "https://github.com/openclaw/openclaw/releases/download/v2026.9.3/openclaw-2026.9.3-stable-main-closeout.json"
@@ -607,7 +607,7 @@
       "state": "uploaded",
       "size": 110,
       "digest": "sha256:ea5355abd4bc5adf939a6ec3e81a0aca973ef2802e31506b1a2cdfd1eb1ceaa2",
-      "download_count": 588,
+      "download_count": 634,
       "created_at": "2026-09-08T17:28:00Z",
       "updated_at": "2026-09-08T17:28:01Z",
       "browser_download_url": "https://github.com/openclaw/openclaw/releases/download/v2026.9.3/openclaw-2026.9.3-stable-main-closeout.json.sha256"
@@ -643,7 +643,7 @@
       "state": "uploaded",
       "size": 428523193,
       "digest": "sha256:25517ea3644c587ec4079dee180794f769c972e2c81986253c973cd6a52f0473",
-      "download_count": 2788,
+      "download_count": 3577,
       "created_at": "2026-09-08T14:19:11Z",
       "updated_at": "2026-09-08T14:19:37Z",
       "browser_download_url": "https://github.com/openclaw/openclaw/releases/download/v2026.9.3/OpenClaw-2026.9.3.dmg"
@@ -679,7 +679,7 @@
       "state": "uploaded",
       "size": 74707084,
       "digest": "sha256:d8b4f2ed0bec107b4959aaa1332a4b960dca126e294c295a178396d2d4b8c68f",
-      "download_count": 81,
+      "download_count": 106,
       "created_at": "2026-09-08T14:19:11Z",
       "updated_at": "2026-09-08T14:19:17Z",
       "browser_download_url": "https://github.com/openclaw/openclaw/releases/download/v2026.9.3/OpenClaw-2026.9.3.dSYM.zip"
@@ -715,7 +715,7 @@
       "state": "uploaded",
       "size": 592452637,
       "digest": "sha256:55178e580fdc4d9e8536e1e08e0ec6a00720ecc17aa51a857db2b6119791a2e5",
-      "download_count": 7337,
+      "download_count": 9924,
       "created_at": "2026-09-08T14:19:11Z",
       "updated_at": "2026-09-08T14:19:53Z",
       "browser_download_url": "https://github.com/openclaw/openclaw/releases/download/v2026.9.3/OpenClaw-2026.9.3.zip"
