@@ -12,6 +12,18 @@ The AI that really does things. Any OS. Any Platform. The lobster way. 🦞
 x install openclaw
 ```
 
+## Code insight
+
+Total: **9,971,184** lines of code across **35723** files in the top 5 languages.
+
+| Language | Code | Comments | Blanks | Files |
+|----------|-----:|---------:|-------:|------:|
+| TypeScript | 8,977,929 | 190,837 | 633,192 | 32932 |
+| Swift | 371,197 | 7,004 | 36,729 | 1258 |
+| Kotlin | 207,789 | 3,723 | 18,885 | 513 |
+| JavaScript | 96,816 | 3,455 | 5,300 | 440 |
+| Yaml | 60,809 | 323 | 847 | 580 |
+
 ## Source
 
 - **Upstream**: <https://github.com/openclaw/openclaw>
@@ -21,8 +33,27 @@ x install openclaw
 ## Release
 
 - **Latest**: `v2026.6.35` (2026-09-10)
-- **Last commit**: 2026-09-10
+- **Last commit**: 2026-09-11
 - **Assets in release**: 19
+
+## Popularity
+
+- **Stars**: 389,396 · **Forks**: 81,838 · **Open issues**: 52,486 · **Contributors**: 3,083
+
+## Totals (cumulative)
+
+- **Releases**: 242 · **Merged PRs**: 37458 · **Open PRs**: 2428 · **Closed issues**: 48228 · **Open issues**: 4258 · **Commits**: 91836
+
+## Recent activity
+
+| Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
+|---|---|---:|---:|---:|---:|---:|---:|
+| 30d | 2026-08-12 | 9 | 12701 | 1564 | 3679 | 1979 | 13722 |
+| last60d | 2026-07-13 | 21 | 21512 | 2179 | 6429 | 2740 | 25781 |
+| 90d | 2026-06-13 | 36 | 26475 | 2304 | 9620 | 3106 | 37302 |
+| last180d | 2026-03-15 | 100 | 33979 | 2425 | 29155 | 3896 | 77117 |
+| 360d | 2025-09-16 | 100 | 37439 | 2428 | 48228 | 4258 | 98318 |
+| last720d | 2024-09-21 | 100 | 37439 | 2428 | 48228 | 4258 | 91836 |
 
 ## Release assets
 
@@ -48,34 +79,6 @@ x install openclaw
 | [OpenClaw-2026.9.3.dSYM.zip](https://github.com/openclaw/openclaw/releases/download/v2026.9.3/OpenClaw-2026.9.3.dSYM.zip) | 71.2 MiB | `other` |
 | [OpenClaw-2026.9.3.zip](https://github.com/openclaw/openclaw/releases/download/v2026.9.3/OpenClaw-2026.9.3.zip) | 565.0 MiB | `other` |
 
-## Popularity
-
-- **Stars**: 389,364 · **Forks**: 81,827 · **Open issues**: 52,400 · **Contributors**: 3,080
-
-## Totals (cumulative)
-
-- **Releases**: 242 · **Merged PRs**: 37259 · **Open PRs**: 2415 · **Closed issues**: 48183 · **Open issues**: 4217 · **Commits**: 91642
-
-## Recent activity
-
-| Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
-|---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-11 | 9 | 12797 | 1575 | 3726 | 1977 | 13499 |
-| 90d | 2026-06-12 | 38 | 26333 | 2294 | 9643 | 3069 | 37079 |
-| 360d | 2025-09-15 | 100 | 37239 | 2416 | 48183 | 4217 | 98095 |
-
-## Code size
-
-Total: **9,946,344** lines of code across **35647** files in the top 5 languages.
-
-| Language | Code | Comments | Blanks | Files |
-|----------|-----:|---------:|-------:|------:|
-| TypeScript | 8,956,200 | 190,624 | 632,489 | 32865 |
-| Swift | 371,291 | 7,004 | 36,735 | 1259 |
-| Kotlin | 205,848 | 3,687 | 18,806 | 505 |
-| JavaScript | 95,668 | 3,446 | 5,293 | 438 |
-| Yaml | 60,809 | 323 | 847 | 580 |
-
 ## Improve this data
 
 Install metadata for openclaw lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `openclaw` is missing, out of date, or installs incorrectly, please open an issue or PR there:
@@ -85,4 +88,4 @@ Install metadata for openclaw lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T16:44:31Z._
+_Snapshot: `data/card/260911.yml` · 2026-09-11T00:22:50Z._
