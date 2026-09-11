@@ -1,0 +1,245 @@
+about:
+  description: "The AI that really does things. Any OS. Any Platform. The lobster way. 🦞 "
+  license: NOASSERTION
+  homepage: https://openclaw.ai
+  head: 6dd2121
+  archived: false
+  latestVersion: "v2026.6.35"
+  latestRelease: "v2026.6.35"
+  latestPrerelease: "v2026.9.1-beta.1"
+  collectedAt: 2026-09-11T00:11:14Z
+timeline:
+  created: 2025-11-24
+  lastCommit: 2026-09-11
+  lastVersion: 2026-09-10
+  lastRelease: 2026-09-10
+  lastPrerelease: 2026-08-28
+popularity:
+  star: 389396
+  watcher: 1749
+  fork: 81838
+  release: 242
+  contributor: 3083
+  pullRequest: 89512
+  issue: 52486
+language:
+  TypeScript: 353927030
+  Swift: 16768056
+  Kotlin: 8329665
+  JavaScript: 4039918
+  Shell: 2334094
+  CSS: 1595146
+  Python: 1087324
+  Rust: 512592
+  Go: 358095
+  Ruby: 114112
+  PowerShell: 95446
+  Dockerfile: 40925
+  HTML: 39875
+  Objective-C: 13596
+  C: 3306
+  Lobster: 2776
+totalBytes: 389261956
+recent:
+  last30d:
+    since: 2026-08-12
+    release: 9
+    mergedPR: 12701
+    openPR: 1564
+    closedIssue: 3679
+    openIssue: 1979
+    commit: 13722
+  last60d:
+    since: 2026-07-13
+    release: 21
+    mergedPR: 21512
+    openPR: 2179
+    closedIssue: 6429
+    openIssue: 2740
+    commit: 25781
+  last90d:
+    since: 2026-06-13
+    release: 36
+    mergedPR: 26475
+    openPR: 2304
+    closedIssue: 9620
+    openIssue: 3106
+    commit: 37302
+  last180d:
+    since: 2026-03-15
+    release: 100
+    mergedPR: 33979
+    openPR: 2425
+    closedIssue: 29155
+    openIssue: 3896
+    commit: 77117
+  last360d:
+    since: 2025-09-16
+    release: 100
+    mergedPR: 37439
+    openPR: 2428
+    closedIssue: 48228
+    openIssue: 4258
+    commit: 98318
+  last720d:
+    since: 2024-09-21
+    release: 100
+    mergedPR: 37439
+    openPR: 2428
+    closedIssue: 48228
+    openIssue: 4258
+    commit: 91836
+total:
+  release: 242
+  mergedPR: 37458
+  openPR: 2428
+  closedIssue: 48228
+  openIssue: 4258
+  commit: 91836
+---
+path: /home/runner/.x-repo/github.com/openclaw/openclaw
+collectedAt: 2026-09-11T00:22:30Z
+loc:
+  TypeScript:
+    code: 8977929
+    comments: 190837
+    blanks: 633192
+    files: 32932
+  Swift:
+    code: 371197
+    comments: 7004
+    blanks: 36729
+    files: 1258
+  Kotlin:
+    code: 207789
+    comments: 3723
+    blanks: 18885
+    files: 513
+  JavaScript:
+    code: 96816
+    comments: 3455
+    blanks: 5300
+    files: 440
+  Yaml:
+    code: 60809
+    comments: 323
+    blanks: 847
+    files: 580
+  Css:
+    code: 59249
+    comments: 2697
+    blanks: 10124
+    files: 118
+  Json:
+    code: 59009
+    comments: 0
+    blanks: 13
+    files: 625
+  Sh:
+    code: 53975
+    comments: 1912
+    blanks: 4981
+    files: 248
+  Xml:
+    code: 46257
+    comments: 34
+    blanks: 18
+    files: 124
+  Rust:
+    code: 13280
+    comments: 200
+    blanks: 976
+    files: 22
+  Go:
+    code: 9985
+    comments: 27
+    blanks: 1062
+    files: 30
+  Python:
+    code: 5832
+    comments: 173
+    blanks: 680
+    files: 27
+  Sql:
+    code: 3039
+    comments: 95
+    blanks: 333
+    files: 3
+  PowerShell:
+    code: 2371
+    comments: 13
+    blanks: 53
+    files: 1
+  Svg:
+    code: 1009
+    comments: 56
+    blanks: 13
+    files: 185
+  Bash:
+    code: 643
+    comments: 85
+    blanks: 43
+    files: 8
+  Dockerfile:
+    code: 549
+    comments: 157
+    blanks: 100
+    files: 11
+  Html:
+    code: 522
+    comments: 4
+    blanks: 26
+    files: 9
+  ObjectiveC:
+    code: 377
+    comments: 4
+    blanks: 32
+    files: 1
+  Toml:
+    code: 340
+    comments: 35
+    blanks: 51
+    files: 19
+  CHeader:
+    code: 65
+    comments: 10
+    blanks: 10
+    files: 2
+  Batch:
+    code: 64
+    comments: 0
+    blanks: 18
+    files: 1
+  XcodeConfig:
+    code: 45
+    comments: 11
+    blanks: 11
+    files: 2
+  Autoconf:
+    code: 23
+    comments: 5
+    blanks: 4
+    files: 1
+  Prolog:
+    code: 10
+    comments: 0
+    blanks: 0
+    files: 2
+  Markdown:
+    code: 0
+    comments: 253473
+    blanks: 56838
+    files: 1580
+  Text:
+    code: 0
+    comments: 22973
+    blanks: 4954
+    files: 219
+total:
+  code: 9989608
+  comments: 488021
+  blanks: 775903
+  files: 38961
+---
+
+---
