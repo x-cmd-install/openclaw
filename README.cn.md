@@ -14,15 +14,15 @@ x install openclaw
 
 ## 代码洞察
 
-合计: **10,292,156** 行代码（覆盖前 5 种语言、共 **36836** 个文件）。
+合计: **10,486,537** 行代码（覆盖前 5 种语言、共 **37418** 个文件）。
 
 | 语言 | 代码 | 注释 | 空行 | 文件数 |
 |------|-----:|-----:|-----:|------:|
-| TypeScript | 9,271,495 | 194,864 | 641,901 | 33926 |
-| Swift | 379,556 | 7,037 | 37,181 | 1279 |
-| Kotlin | 209,925 | 3,751 | 19,015 | 519 |
-| JavaScript | 100,333 | 3,517 | 5,391 | 458 |
-| Json | 63,337 | 0 | 13 | 654 |
+| TypeScript | 9,442,486 | 197,045 | 647,463 | 34483 |
+| Swift | 383,542 | 7,067 | 37,475 | 1289 |
+| Kotlin | 214,228 | 3,844 | 19,248 | 525 |
+| JavaScript | 104,519 | 3,583 | 5,482 | 466 |
+| Json | 63,641 | 0 | 13 | 655 |
 
 ## 源代码
 
@@ -33,32 +33,35 @@ x install openclaw
 ## 发布
 
 - **最新版本**: `v2026.9.4` (2026-09-11)
-- **最近提交**: 2026-09-13
-- **Release 含资产**: 8 个
+- **最近提交**: 2026-09-14
+- **Release 含资产**: 12 个
 
 ## 流行度
 
-- **Star**: 389,542 · **Fork**: 81,882 · **开放 issue**: 53,090 · **贡献者**: 3,103
+- **Star**: 389,629 · **Fork**: 81,895 · **开放 issue**: 53,348 · **贡献者**: 3,107
 
 ## 累计统计
 
-- **发布数**: 243 · **已合并 PR**: 38753 · **开放 PR**: 2605 · **已关闭 issue**: 48609 · **开放 issue**: 4481 · **提交数**: 93127
+- **发布数**: 243 · **已合并 PR**: 39525 · **开放 PR**: 2630 · **已关闭 issue**: 48784 · **开放 issue**: 4564 · **提交数**: 93894
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-14 | 10 | 13373 | 1722 | 3880 | 2178 | 12868 |
-| last60d | 2026-07-15 | 20 | 21956 | 2347 | 6462 | 2930 | 23830 |
-| 90d | 2026-06-15 | 35 | 27605 | 2479 | 9865 | 3321 | 36138 |
-| last180d | 2026-03-17 | 100 | 35196 | 2602 | 28822 | 4098 | 76406 |
-| 360d | 2025-09-18 | 100 | 38734 | 2605 | 48609 | 4481 | 99757 |
-| last720d | 2024-09-23 | 100 | 38734 | 2605 | 48609 | 4481 | 93127 |
+| 30d | 2026-08-15 | 10 | 13882 | 1744 | 3962 | 2253 | 13695 |
+| last60d | 2026-07-16 | 19 | 22249 | 2364 | 6496 | 3006 | 24657 |
+| 90d | 2026-06-16 | 35 | 28234 | 2507 | 9994 | 3402 | 36965 |
+| last180d | 2026-03-18 | 100 | 35908 | 2627 | 28676 | 4174 | 77228 |
+| 360d | 2025-09-19 | 100 | 39506 | 2630 | 48784 | 4564 | 100574 |
+| last720d | 2024-09-24 | 100 | 39506 | 2630 | 48784 | 4564 | 93894 |
 
 ## Release 资产
 
 | 资产 | 大小 | 目标平台 |
 |------|-----:|----------|
+| [latest.json](https://github.com/openclaw/openclaw/releases/download/v2026.9.4/latest.json) | 2.6 KiB | `other` |
+| [OpenClaw-2026.9.4-amd64.AppImage](https://github.com/openclaw/openclaw/releases/download/v2026.9.4/OpenClaw-2026.9.4-amd64.AppImage) | 131.4 MiB | `other` |
+| [OpenClaw-2026.9.4-amd64.deb](https://github.com/openclaw/openclaw/releases/download/v2026.9.4/OpenClaw-2026.9.4-amd64.deb) | 8.6 MiB | `other` |
 | [openclaw-2026.9.4-dependency-evidence.zip](https://github.com/openclaw/openclaw/releases/download/v2026.9.4/openclaw-2026.9.4-dependency-evidence.zip) | 292.8 KiB | `other` |
 | [openclaw-2026.9.4-postpublish-evidence.json](https://github.com/openclaw/openclaw/releases/download/v2026.9.4/openclaw-2026.9.4-postpublish-evidence.json) | 47.2 KiB | `other` |
 | [openclaw-2026.9.4-postpublish-evidence.json.sha256](https://github.com/openclaw/openclaw/releases/download/v2026.9.4/openclaw-2026.9.4-postpublish-evidence.json.sha256) | 110 B | `other` |
@@ -67,6 +70,7 @@ x install openclaw
 | [OpenClaw-2026.9.4.dmg](https://github.com/openclaw/openclaw/releases/download/v2026.9.4/OpenClaw-2026.9.4.dmg) | 427.9 MiB | `other` |
 | [OpenClaw-2026.9.4.dSYM.zip](https://github.com/openclaw/openclaw/releases/download/v2026.9.4/OpenClaw-2026.9.4.dSYM.zip) | 71.4 MiB | `other` |
 | [OpenClaw-2026.9.4.zip](https://github.com/openclaw/openclaw/releases/download/v2026.9.4/OpenClaw-2026.9.4.zip) | 585.5 MiB | `other` |
+| [SHA256SUMS.linux-app.txt](https://github.com/openclaw/openclaw/releases/download/v2026.9.4/SHA256SUMS.linux-app.txt) | 197 B | `other` |
 
 ## 改进这些数据
 
@@ -77,4 +81,4 @@ openclaw 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install)
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260913.yml` · 2026-09-13T05:06:48Z._
+_数据快照: `data/card/260914.yml` · 2026-09-14T05:15:55Z._
