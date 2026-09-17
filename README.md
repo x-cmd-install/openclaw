@@ -14,15 +14,15 @@ x install openclaw
 
 ## Code insight
 
-Total: **10,728,147** lines of code across **37656** files in the top 5 languages.
+Total: **10,877,161** lines of code across **38278** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| TypeScript | 9,657,513 | 199,750 | 654,780 | 35189 |
-| Swift | 387,961 | 7,118 | 37,764 | 1302 |
-| Kotlin | 218,902 | 3,902 | 19,474 | 536 |
-| JavaScript | 111,100 | 3,688 | 5,675 | 487 |
-| Css | 65,830 | 2,767 | 10,937 | 142 |
+| TypeScript | 9,781,170 | 201,800 | 658,668 | 35775 |
+| Swift | 392,397 | 7,169 | 38,038 | 1321 |
+| Kotlin | 219,900 | 3,912 | 19,525 | 540 |
+| JavaScript | 113,797 | 3,742 | 5,747 | 497 |
+| Css | 66,245 | 2,766 | 10,913 | 145 |
 
 ## Source
 
@@ -33,27 +33,27 @@ Total: **10,728,147** lines of code across **37656** files in the top 5 language
 ## Release
 
 - **Latest**: `v2026.9.4` (2026-09-11)
-- **Last commit**: 2026-09-16
+- **Last commit**: 2026-09-17
 - **Assets in release**: 12
 
 ## Popularity
 
-- **Stars**: 389,811 · **Forks**: 81,934 · **Open issues**: 53,710 · **Contributors**: 3,119
+- **Stars**: 389,921 · **Forks**: 81,965 · **Open issues**: 53,940 · **Contributors**: 3,124
 
 ## Totals (cumulative)
 
-- **Releases**: 243 · **Merged PRs**: 40598 · **Open PRs**: 2727 · **Closed issues**: 49029 · **Open issues**: 4681 · **Commits**: 94953
+- **Releases**: 243 · **Merged PRs**: 41133 · **Open PRs**: 2765 · **Closed issues**: 49135 · **Open issues**: 4805 · **Commits**: 95486
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-17 | 9 | 14238 | 1838 | 4015 | 2326 | 14849 |
-| last60d | 2026-07-18 | 18 | 22461 | 2437 | 6555 | 3083 | 25811 |
-| 90d | 2026-06-18 | 33 | 29149 | 2603 | 10071 | 3504 | 38119 |
-| last180d | 2026-03-20 | 100 | 36906 | 2724 | 28344 | 4269 | 78382 |
-| 360d | 2025-09-21 | 100 | 40577 | 2727 | 49029 | 4681 | 101728 |
-| last720d | 2024-09-26 | 100 | 40577 | 2727 | 49029 | 4681 | 94953 |
+| 30d | 2026-08-18 | 9 | 14360 | 1885 | 3988 | 2431 | 15461 |
+| last60d | 2026-07-19 | 17 | 22717 | 2473 | 6582 | 3194 | 26423 |
+| 90d | 2026-06-19 | 33 | 29615 | 2641 | 10108 | 3621 | 38731 |
+| last180d | 2026-03-21 | 100 | 37381 | 2761 | 28189 | 4381 | 78994 |
+| 360d | 2025-09-22 | 100 | 41112 | 2765 | 49135 | 4804 | 102340 |
+| last720d | 2024-09-27 | 100 | 41112 | 2765 | 49135 | 4804 | 95486 |
 
 ## Release assets
 
@@ -81,4 +81,4 @@ Install metadata for openclaw lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260916.yml` · 2026-09-16T05:18:37Z._
+_Snapshot: `data/card/260917.yml` · 2026-09-17T05:23:25Z._
