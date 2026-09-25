@@ -14,15 +14,15 @@ x install openclaw
 
 ## 代码洞察
 
-合计: **11,931,720** 行代码（覆盖前 5 种语言、共 **43099** 个文件）。
+合计: **12,036,516** 行代码（覆盖前 5 种语言、共 **44051** 个文件）。
 
 | 语言 | 代码 | 注释 | 空行 | 文件数 |
 |------|-----:|-----:|-----:|------:|
-| TypeScript | 10,777,410 | 208,339 | 683,451 | 40473 |
-| Swift | 398,376 | 7,301 | 38,371 | 1336 |
-| Kotlin | 230,714 | 4,073 | 20,120 | 578 |
-| JavaScript | 127,461 | 4,101 | 6,050 | 553 |
-| Css | 68,880 | 2,790 | 11,327 | 159 |
+| TypeScript | 10,868,556 | 209,725 | 685,403 | 40842 |
+| Swift | 401,763 | 7,383 | 38,607 | 1348 |
+| Kotlin | 234,366 | 4,164 | 20,368 | 592 |
+| JavaScript | 131,877 | 4,193 | 6,121 | 569 |
+| Json | 69,976 | 0 | 13 | 700 |
 
 ## 源代码
 
@@ -33,33 +33,33 @@ x install openclaw
 ## 发布
 
 - **最新版本**: `v2026.9.6` (2026-09-23)
-- **最近提交**: 2026-09-24
-- **Release 含资产**: 14 个
+- **最近提交**: 2026-09-25
+- **Release 含资产**: 16 个
 
 ## 流行度
 
-- **Star**: 390,347 · **Fork**: 82,125 · **开放 issue**: 55,644 · **贡献者**: 3,153
+- **Star**: 390,446 · **Fork**: 82,140 · **开放 issue**: 55,930 · **贡献者**: 3,159
 
 ## 累计统计
 
-- **发布数**: 247 · **已合并 PR**: 44888 · **开放 PR**: 3008 · **已关闭 issue**: 50222 · **开放 issue**: 5422 · **提交数**: 99345
+- **发布数**: 247 · **已合并 PR**: 45353 · **开放 PR**: 3090 · **已关闭 issue**: 50423 · **开放 issue**: 5507 · **提交数**: 99852
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-25 | 12 | 16142 | 2101 | 4144 | 2812 | 16991 |
-| last60d | 2026-07-26 | 21 | 25172 | 2678 | 6989 | 3762 | 28724 |
-| 90d | 2026-06-26 | 31 | 32832 | 2873 | 10721 | 4267 | 41681 |
-| last180d | 2026-03-28 | 100 | 40655 | 3003 | 27028 | 4946 | 81006 |
-| 360d | 2025-09-29 | 100 | 44865 | 3008 | 50222 | 5422 | 106703 |
-| last720d | 2024-10-04 | 100 | 44865 | 3008 | 50222 | 5422 | 99345 |
+| 30d | 2026-08-26 | 12 | 16048 | 2202 | 4167 | 2863 | 17466 |
+| last60d | 2026-07-27 | 21 | 25246 | 2755 | 7032 | 3833 | 29199 |
+| 90d | 2026-06-27 | 31 | 33245 | 2955 | 10838 | 4353 | 42156 |
+| last180d | 2026-03-29 | 100 | 41076 | 3085 | 26871 | 5018 | 81481 |
+| 360d | 2025-09-30 | 100 | 45330 | 3090 | 50423 | 5507 | 107178 |
+| last720d | 2024-10-05 | 100 | 45330 | 3090 | 50423 | 5507 | 99852 |
 
 ## Release 资产
 
 | 资产 | 大小 | 目标平台 |
 |------|-----:|----------|
-| [OpenClaw-2026.9.6-arm64.dmg](https://github.com/openclaw/openclaw/releases/download/v2026.9.6/OpenClaw-2026.9.6-arm64.dmg) | 154.3 MiB | `other` |
+| [OpenClaw-2026.9.6-arm64.dmg](https://github.com/openclaw/openclaw/releases/download/v2026.9.6/OpenClaw-2026.9.6-arm64.dmg) | 154.2 MiB | `other` |
 | [OpenClaw-2026.9.6-arm64.dSYM.zip](https://github.com/openclaw/openclaw/releases/download/v2026.9.6/OpenClaw-2026.9.6-arm64.dSYM.zip) | 37.1 MiB | `other` |
 | [OpenClaw-2026.9.6-arm64.zip](https://github.com/openclaw/openclaw/releases/download/v2026.9.6/OpenClaw-2026.9.6-arm64.zip) | 227.4 MiB | `other` |
 | [openclaw-2026.9.6-dependency-evidence.zip](https://github.com/openclaw/openclaw/releases/download/v2026.9.6/openclaw-2026.9.6-dependency-evidence.zip) | 305.2 KiB | `other` |
@@ -67,10 +67,12 @@ x install openclaw
 | [openclaw-2026.9.6-postpublish-evidence.json.sha256](https://github.com/openclaw/openclaw/releases/download/v2026.9.6/openclaw-2026.9.6-postpublish-evidence.json.sha256) | 110 B | `other` |
 | [openclaw-2026.9.6-release-manifest.json](https://github.com/openclaw/openclaw/releases/download/v2026.9.6/openclaw-2026.9.6-release-manifest.json) | 191.2 KiB | `other` |
 | [openclaw-2026.9.6-release-manifest.json.sha256](https://github.com/openclaw/openclaw/releases/download/v2026.9.6/openclaw-2026.9.6-release-manifest.json.sha256) | 106 B | `other` |
+| [openclaw-2026.9.6-stable-main-closeout.json](https://github.com/openclaw/openclaw/releases/download/v2026.9.6/openclaw-2026.9.6-stable-main-closeout.json) | 3.6 KiB | `other` |
+| [openclaw-2026.9.6-stable-main-closeout.json.sha256](https://github.com/openclaw/openclaw/releases/download/v2026.9.6/openclaw-2026.9.6-stable-main-closeout.json.sha256) | 110 B | `other` |
 | [OpenClaw-2026.9.6-x86_64.dmg](https://github.com/openclaw/openclaw/releases/download/v2026.9.6/OpenClaw-2026.9.6-x86_64.dmg) | 165.0 MiB | `other` |
 | [OpenClaw-2026.9.6-x86_64.dSYM.zip](https://github.com/openclaw/openclaw/releases/download/v2026.9.6/OpenClaw-2026.9.6-x86_64.dSYM.zip) | 39.0 MiB | `other` |
 | [OpenClaw-2026.9.6-x86_64.zip](https://github.com/openclaw/openclaw/releases/download/v2026.9.6/OpenClaw-2026.9.6-x86_64.zip) | 235.9 MiB | `other` |
-| [OpenClaw-2026.9.6.dmg](https://github.com/openclaw/openclaw/releases/download/v2026.9.6/OpenClaw-2026.9.6.dmg) | 311.4 MiB | `other` |
+| [OpenClaw-2026.9.6.dmg](https://github.com/openclaw/openclaw/releases/download/v2026.9.6/OpenClaw-2026.9.6.dmg) | 311.1 MiB | `other` |
 | [OpenClaw-2026.9.6.dSYM.zip](https://github.com/openclaw/openclaw/releases/download/v2026.9.6/OpenClaw-2026.9.6.dSYM.zip) | 74.7 MiB | `other` |
 | [OpenClaw-2026.9.6.zip](https://github.com/openclaw/openclaw/releases/download/v2026.9.6/OpenClaw-2026.9.6.zip) | 452.9 MiB | `other` |
 
@@ -83,4 +85,4 @@ openclaw 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install)
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260924.yml` · 2026-09-24T05:03:39Z._
+_数据快照: `data/card/260925.yml` · 2026-09-25T05:17:00Z._
