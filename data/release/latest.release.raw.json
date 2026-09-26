@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 161682863,
       "digest": "sha256:bf14622737de4dae4bf1d7d41ea3de7d7278355faba58dcb37cc9f5eef0c4555",
-      "download_count": 408,
+      "download_count": 864,
       "created_at": "2026-09-24T09:51:53Z",
       "updated_at": "2026-09-24T09:52:24Z",
       "browser_download_url": "https://github.com/openclaw/openclaw/releases/download/v2026.9.6/OpenClaw-2026.9.6-arm64.dmg"
@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 38934219,
       "digest": "sha256:0781ddf1599bddf396672a8cd2433a4cd24004d1621cc03359d042042152657b",
-      "download_count": 38,
+      "download_count": 86,
       "created_at": "2026-09-24T09:52:09Z",
       "updated_at": "2026-09-24T09:52:13Z",
       "browser_download_url": "https://github.com/openclaw/openclaw/releases/download/v2026.9.6/OpenClaw-2026.9.6-arm64.dSYM.zip"
@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 238402030,
       "digest": "sha256:2a526519a076b04360b3c2a06d3518ed5a5248cd890d334bdd0374d544591ca7",
-      "download_count": 141,
+      "download_count": 315,
       "created_at": "2026-09-24T09:51:53Z",
       "updated_at": "2026-09-24T09:52:26Z",
       "browser_download_url": "https://github.com/openclaw/openclaw/releases/download/v2026.9.6/OpenClaw-2026.9.6-arm64.zip"
@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 312556,
       "digest": "sha256:b095f9f1ad49ce4ed6d468981c15be3a3cd52e68a2cae33cbe24dc88956326b3",
-      "download_count": 177,
+      "download_count": 306,
       "created_at": "2026-09-23T23:48:37Z",
       "updated_at": "2026-09-23T23:48:38Z",
       "browser_download_url": "https://github.com/openclaw/openclaw/releases/download/v2026.9.6/openclaw-2026.9.6-dependency-evidence.zip"
@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 23860,
       "digest": "sha256:24a686f87416d0f48dc9298a8b822f37a32416f2afd7a1a3568c0591203cce51",
-      "download_count": 317,
+      "download_count": 476,
       "created_at": "2026-09-23T23:48:41Z",
       "updated_at": "2026-09-23T23:48:41Z",
       "browser_download_url": "https://github.com/openclaw/openclaw/releases/download/v2026.9.6/openclaw-2026.9.6-postpublish-evidence.json"
@@ -247,7 +247,7 @@
       "state": "uploaded",
       "size": 110,
       "digest": "sha256:4d35b09dbb7e84fa23cd5189bee3895b8e9040842586de51c0026f52e7c9f724",
-      "download_count": 288,
+      "download_count": 430,
       "created_at": "2026-09-23T23:48:41Z",
       "updated_at": "2026-09-23T23:48:42Z",
       "browser_download_url": "https://github.com/openclaw/openclaw/releases/download/v2026.9.6/openclaw-2026.9.6-postpublish-evidence.json.sha256"
@@ -283,7 +283,7 @@
       "state": "uploaded",
       "size": 195772,
       "digest": "sha256:7bb4edfdd7a503c17472ccd011e540fc3eedf25af3fd2828569aec159963666a",
-      "download_count": 419,
+      "download_count": 609,
       "created_at": "2026-09-23T23:48:39Z",
       "updated_at": "2026-09-23T23:48:39Z",
       "browser_download_url": "https://github.com/openclaw/openclaw/releases/download/v2026.9.6/openclaw-2026.9.6-release-manifest.json"
@@ -319,7 +319,7 @@
       "state": "uploaded",
       "size": 106,
       "digest": "sha256:182f399002eca832542346a439661e59b3b73be9e35dee529af416ae24133028",
-      "download_count": 344,
+      "download_count": 490,
       "created_at": "2026-09-23T23:48:40Z",
       "updated_at": "2026-09-23T23:48:40Z",
       "browser_download_url": "https://github.com/openclaw/openclaw/releases/download/v2026.9.6/openclaw-2026.9.6-release-manifest.json.sha256"
@@ -355,7 +355,7 @@
       "state": "uploaded",
       "size": 3655,
       "digest": "sha256:0311204ac255a5d2ace20c460047bb7f4c8948e0af73ce6e6b2e91c5d0fc212a",
-      "download_count": 203,
+      "download_count": 360,
       "created_at": "2026-09-24T13:00:54Z",
       "updated_at": "2026-09-24T13:00:54Z",
       "browser_download_url": "https://github.com/openclaw/openclaw/releases/download/v2026.9.6/openclaw-2026.9.6-stable-main-closeout.json"
@@ -391,7 +391,7 @@
       "state": "uploaded",
       "size": 110,
       "digest": "sha256:7918351192937da146c4681c5145337482154606d6ea2608190abb1619bb9895",
-      "download_count": 189,
+      "download_count": 331,
       "created_at": "2026-09-24T13:00:56Z",
       "updated_at": "2026-09-24T13:00:56Z",
       "browser_download_url": "https://github.com/openclaw/openclaw/releases/download/v2026.9.6/openclaw-2026.9.6-stable-main-closeout.json.sha256"
@@ -427,7 +427,7 @@
       "state": "uploaded",
       "size": 173022122,
       "digest": "sha256:f8f9bce4f63fa2d3ca9215f96a239753c4386d2c15b9e765ec09ffb8c5d3f57a",
-      "download_count": 71,
+      "download_count": 145,
       "created_at": "2026-09-24T09:52:25Z",
       "updated_at": "2026-09-24T09:52:32Z",
       "browser_download_url": "https://github.com/openclaw/openclaw/releases/download/v2026.9.6/OpenClaw-2026.9.6-x86_64.dmg"
@@ -463,7 +463,7 @@
       "state": "uploaded",
       "size": 40934230,
       "digest": "sha256:4818003b1f962c6f76314d37f1a11c8ca8a4da5a55a5383ee470192068b94151",
-      "download_count": 29,
+      "download_count": 58,
       "created_at": "2026-09-24T09:52:27Z",
       "updated_at": "2026-09-24T09:52:28Z",
       "browser_download_url": "https://github.com/openclaw/openclaw/releases/download/v2026.9.6/OpenClaw-2026.9.6-x86_64.dSYM.zip"
@@ -499,7 +499,7 @@
       "state": "uploaded",
       "size": 247379356,
       "digest": "sha256:cef78b14434366bb406993a7b4af7b2b021bbadd9a21a9225d6b2d5a9e857f97",
-      "download_count": 80,
+      "download_count": 184,
       "created_at": "2026-09-24T09:52:14Z",
       "updated_at": "2026-09-24T09:52:27Z",
       "browser_download_url": "https://github.com/openclaw/openclaw/releases/download/v2026.9.6/OpenClaw-2026.9.6-x86_64.zip"
@@ -535,7 +535,7 @@
       "state": "uploaded",
       "size": 326254580,
       "digest": "sha256:4e3f5fe0ca2feb5acb914b67521f9c055926a32a038fe3b5ae1057e2bae8aefb",
-      "download_count": 231,
+      "download_count": 437,
       "created_at": "2026-09-24T09:51:53Z",
       "updated_at": "2026-09-24T09:52:30Z",
       "browser_download_url": "https://github.com/openclaw/openclaw/releases/download/v2026.9.6/OpenClaw-2026.9.6.dmg"
@@ -571,7 +571,7 @@
       "state": "uploaded",
       "size": 78307178,
       "digest": "sha256:89f10bb9c6e049bc77073ede6912bb3a8de7b595e09df7581a15841db959f80a",
-      "download_count": 18,
+      "download_count": 28,
       "created_at": "2026-09-24T09:51:53Z",
       "updated_at": "2026-09-24T09:52:07Z",
       "browser_download_url": "https://github.com/openclaw/openclaw/releases/download/v2026.9.6/OpenClaw-2026.9.6.dSYM.zip"
@@ -607,7 +607,7 @@
       "state": "uploaded",
       "size": 474880160,
       "digest": "sha256:09356ea7d78adfe5ccf40b12a4436c97f61c5abbab00410eb6c2e857012d29bd",
-      "download_count": 3386,
+      "download_count": 7977,
       "created_at": "2026-09-24T09:51:54Z",
       "updated_at": "2026-09-24T09:52:28Z",
       "browser_download_url": "https://github.com/openclaw/openclaw/releases/download/v2026.9.6/OpenClaw-2026.9.6.zip"
@@ -618,15 +618,15 @@
   "body": "> **macOS app rebuilt 2026-09-24:** the original 2026.9.6 macOS build crashed at launch (#156861) and was replaced at 09:52 UTC by a rebuilt, notarized 2026.9.6 build with the fix (#156881). Download the DMG below or update from 2026.9.5 in the app. If you installed the earlier 2026.9.6 build and it does not launch, install the DMG once. The npm package is unchanged.\n\n<!-- openclaw-release-publication:docs-v1 -->\n\n## OpenClaw v2026.9.6\n\n178 direct commits · 2,614 pull requests · 351 contributors\n\n### Changes included in this release\n\nThe release notes and changelog contain the same content, presented in two formats:\n\n- [Release notes](https://docs.openclaw.ai/releases/2026.9.6) — formatted for people, with expandable sections.\n- [Changelog](https://raw.githubusercontent.com/openclaw/openclaw/main/CHANGELOG/2026.9.6.md) — plain Markdown for AI agents and tools.\n\n### Thanks\n\n@0-danielviktorovich-0 @1Vision365-PeterTijsma @609NFT @aatreya @abacha @AbuSido82 @agebreak0083 @agent-axos @AgentSolomon @ago1776 @Albertyn87 @alex-brave @alexey-pelykh @Alix-007 @allen0373 @altaywtf @alvelda @amittell @Andapeng @aniketkrs @aniruddhaadak80 @anyech @ayoakouh @azuretek @baiwei0427 @baovo15 @Bartok9 @Baumus @bdjben @beeven @beings1988-lab @bek91 @benediktweber @berklingtools @bharatvasan @BinChenUtrecht @bipolar84 @bitbalancer @blackeyes-boy @bobbygaerd @BodegaClaw @BorClaw @BottaniCals @britrik @brokemac79 @Bruce-Yii @brunorapido @BsnizND @camerono @Carme99 @ceckert @CHE10X @chelsealong @cipp-ashe @cjn119-ui @ckupferschmid @cloudgg82-blip @cnflwzh @cognos2013 @colehammond65 @Colton-Harris @ComfyChloe @Conan-Scott @cookywook @cortanapham @cpsleepy @ctbritt @Cyb3rb1ade @dale-goes-fast @damiansmazurek @dankarization @DasX @davidchyi-beep @davidcittadini @Davidofflol12 @Dazlarus @ddupg @Deregtx @desksk @destinedenergy @dh-js @dimonnld @dltlaos11 @dmlau76 @dmnksss @dom521 @DonnieFi @droidyouwerelookingfor @DrToNy1 @dustytext-bot @duybaovin @easyteacher @edenfunf @edgarstool @edrwalker @eefreenyc @Eragim @ericcaiwx-star @ericcurtin @ericpearson @ERMALTA @etzelm @ezimerman @Fatal0607 @fduch-stranger @fede-kamel @flynnmcpoc @flyto168 @fozzels-assistant @fray-ai @freshxiaoyao @fulgerulnegru @fuller-stack-dev @Gabrielnkl @galiniliev @ge0el @gennadyclaw @giodl73-repo @GoldenrodScript @gorkem2020 @goutamadwant @Grynn @guarismo @guerilla47 @gwjr @Haderach-Ram @hannesrudolph @hannnnn-l @harjothkhara @harshitgupta31415 @hartmark @HaukeSchnau @hhkwoong @holny @hpyhandsome @hxy8241 @hxy91819 @HypocritePro @imHw @isinghmitesh @islandpreneur007 @itanyplus @iuiu-py @ivankuznetsov @IWhatsskill @iXandru @Jackten @jacobtomlinson @jalehman @jammyclaw @jarvis-stephens-bot @jason-allen-oneal @jaxonparrott @jb510 @jesse-merhi @Jey2311 @jhgaylor @jiangwanxin1982-ctrl @jjgao @jjjhenriksen @jnikolaidis @johnnyjrizzo @joncursi @JoPaMu @joshavant @joshpetras @jplavoiemtl @jzakirov @KarleeTDM @keithce @kevinlin-openai @Kiiatkin @Kimiyu-186 @kip-claw @kiranvk-2011 @kittitys @kpwillis @KrasimirKralev @KrauseFx @KrisWuli006 @L497c @lakemike @LandonSchropp @laurencebrown @laurenceputra @Lendersmark @Leon-SK668 @Lidashi1025 @lishewen @LiuwqGit @lojasarah @lraesly @lucarinaorg @ludovicfourrage @ly85206559 @marcio-absmartly @markGenhealth @markun-japan @Marvinthebored @masatohoshino @massad1977 @MasterSwords1 @mattkanwisher @maxsxu @Maxwell-Code07 @mcaxtr @MertBasar0 @metahacker @mfurkanakinci @michaeljgood71 @migelizaga-rgb @milanko77 @miorbnli @mirasrael @Mirr0ch1 @mmkerrigan @mmm7053455-tech @MoerAI @mrunalp @mrzeepek @msobrosa @mulderp82 @mykhul @najef1979-code @Navras98 @ndakota79 @neangneatos @Nehanth @NianJiuZst @Nickfost @nikolasdehor @noelillinger @Nsikak1 @Ntimesp @nxmxbbd @obviyus @Oldrich333 @omarshahine @ooiuuii @original4422 @oshunter @ozp @paluj85-cloud @pash-openai @Patrick-Erichsen @Peetiegonzalez @PennyVibe @petroff @pfrederiksen @Philbones49 @piotx @podulator @PollyBot13 @Psychnix @qingminglong @qq1091429090huo-svg @raghidtawil-lab @rajivranjanmars @RichSomeday222 @RJAILLC @rlosito @rmyers64 @RomneyDa @rondavis007 @ruel225 @rvelasquez @RWOverdijk @saariuslystoned @sac916 @safrano9999 @sagebhardt @sahilsatralkar @sallyom @samiralibabic @sasan1200 @SBC2016 @seahopark @sebastian-hoebarth @sennyhoney @sercada @servermacminim2ku @shadesurgeon @shakkernerd @sjf @sjf-oa @skorfmann @sloptop-the-terrible @smaill02 @smfworks @soar-king @Solvely-Colin @SPRIC76 @stackingrockss @steipete @stevekinney @stevenlee-oai @StrajnarFilip @Suidge @SummitOperations26 @SunnyShu0925 @synapse-homeroot @synthalorian @Takhoffman @Tangqiu25 @th-m-vogel @TheAngryPit @todddickerson @tomekep @TommyLei666 @TriDefender @Truck0ff @tzy-17 @VACInc @Valkster70 @Vasanthdev2004 @VictoryLapOps @vildar82 @vincentkoc @voytas75 @vyctorbrzezowski @wangmiao0668000666 @wangzhongming-yh @WhitenessTiger @wiipud @Wildsberg @wlassalle724 @wrgrant @xialonglee @xilopaint @xingzihai @xydigit-zt @xydigitLybnnnn @xydt-juyaohui @Yachiyo1680 @YangManBOBO @yetval @Yigtwxx @Yun-0000 @yunligou711-commits @yursil @ZaneChen76 @ZaneMc-AO @ZengWen-DT @zesming @zhangguiping-xydt @zl0nline @zsh20000414 @ZSmallX @ZYV5ge @zyz619963502zyz @zzs12345-web\n\n- ayoakouh\n- Benjamin Badejo\n- CanadaOrNaw\n- Claw\n- Galin Iliev\n- Mariano\n- Peter Steinberger\n- Peter Steinberger\n- Pinchy\n- Prince\n- root\n- svenmy76\n- ` thomas.szbay `\n- Vyctor\n- wangzifei\n- Yuri Petrou\n\n### Release verification\n\n- npm package: https://www.npmjs.com/package/openclaw/v/2026.9.6\n- registry tarball: https://registry.npmjs.org/openclaw/-/openclaw-2026.9.6.tgz\n- integrity: `sha512-Ie0kyQSCVfFqixsgVg39vevUDq01Ch5u3+7Yu5Y3qARczmdAe+lzp8bVnO9925rHiW/+CFp70zfORCyPmCH31g==`\n- release SHA: `eb377ac59e6c9fd6c7705028034812becf00271b`\n- full release CI report: https://github.com/openclaw/releases/blob/main/evidence/2026.9.6/release-evidence.md\n- release publish: https://github.com/openclaw/openclaw/actions/runs/35933709927\n- npm preflight: https://github.com/openclaw/openclaw/actions/runs/35889147390\n- full release validation: https://github.com/openclaw/openclaw/actions/runs/35887899327\n- plugin npm publish: https://github.com/openclaw/openclaw/actions/runs/35934155492\n- plugin ClawHub submission: https://github.com/openclaw/openclaw/actions/runs/35934164174; public artifact verification follows successful release-parent completion\n- plugin ClawHub bootstrap: dispatched separately, not awaited by this proof: https://github.com/openclaw/openclaw/actions/runs/35934171495\n- OpenClaw npm publish: https://github.com/openclaw/openclaw/actions/runs/35930626357/attempts/1\n- Stable soak waived by operator: \"Operator-approved by Peter for 2026.9.6: soak-only live/E2E lanes not run (release_profile=beta, run_release_soak=false per 2026.9.5 precedent); 2026.9.5 to 2026.9.6 update proven via the upgrade-survivor and published-upgrade-survivor lanes, install smoke, and the first-hop compat lane.\"\n- Operator lane waiver: \"2026.9.6 Operator lane waiver approved by Peter (2026-09-23, \\\"release this now\\\"): non-proof CI, plugin and release-check lane failures are advisory for the 2026.9.6 stable; artifacts, install smoke, upgrade survivors and pack budget stay required.\"; waived lanes: normalCi checks-node-agentic-control-plane-agent-chat (failure); normalCi checks-node-bundle-infra-small-runtime-2 (failure); normalCi openclaw/ci-gate (failure)\n- npm Telegram beta E2E: not supplied\n- Android APK: skipped — apps/android/version.json is 2026.8.2, release train is 2026.9.6; run the shared mobile cutter (scripts/mobile-release-version.ts --prepare) before the next tag.\n\n",
   "reactions": {
     "url": "https://api.github.com/repos/openclaw/openclaw/releases/395067017/reactions",
-    "total_count": 34,
-    "+1": 13,
+    "total_count": 46,
+    "+1": 16,
     "-1": 0,
-    "laugh": 3,
-    "hooray": 3,
+    "laugh": 5,
+    "hooray": 5,
     "confused": 0,
-    "heart": 3,
-    "rocket": 9,
-    "eyes": 3
+    "heart": 5,
+    "rocket": 11,
+    "eyes": 4
   },
   "mentions_count": 200
 }
