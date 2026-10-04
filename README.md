@@ -14,15 +14,15 @@ x install openclaw
 
 ## Code insight
 
-Total: **11,537,908** lines of code across **46147** files in the top 5 languages.
+Total: **11,564,937** lines of code across **46613** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| TypeScript | 10,370,574 | 180,695 | 608,132 | 42673 |
-| Swift | 402,695 | 8,138 | 36,952 | 1505 |
-| Kotlin | 233,730 | 3,959 | 20,257 | 615 |
-| JavaScript | 150,863 | 4,702 | 6,451 | 627 |
-| Json | 74,055 | 0 | 13 | 727 |
+| TypeScript | 10,391,520 | 179,903 | 600,548 | 43112 |
+| Swift | 406,379 | 8,229 | 37,086 | 1522 |
+| Kotlin | 233,420 | 3,961 | 20,205 | 615 |
+| JavaScript | 152,886 | 4,709 | 6,463 | 634 |
+| Json | 76,461 | 0 | 13 | 730 |
 
 ## Source
 
@@ -33,38 +33,49 @@ Total: **11,537,908** lines of code across **46147** files in the top 5 language
 ## Release
 
 - **Latest**: `v2026.9.8` (2026-10-03)
-- **Last commit**: 2026-10-03
-- **Assets in release**: 6
+- **Last commit**: 2026-10-04
+- **Assets in release**: 17
 
 ## Popularity
 
-- **Stars**: 391,198 · **Forks**: 82,230 · **Open issues**: 57,311 · **Contributors**: 3,204
+- **Stars**: 391,254 · **Forks**: 82,248 · **Open issues**: 57,503 · **Contributors**: 3,210
 
 ## Totals (cumulative)
 
-- **Releases**: 252 · **Merged PRs**: 49299 · **Open PRs**: 3230 · **Closed issues**: 51373 · **Open issues**: 5938 · **Commits**: 104383
+- **Releases**: 252 · **Merged PRs**: 49755 · **Open PRs**: 3284 · **Closed issues**: 51513 · **Open issues**: 5990 · **Commits**: 104919
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-03 | 14 | 15768 | 2213 | 3422 | 3024 | 17551 |
-| last60d | 2026-08-04 | 23 | 26355 | 2822 | 7246 | 4130 | 29473 |
-| 90d | 2026-07-05 | 33 | 36208 | 3090 | 10983 | 4730 | 44001 |
-| last180d | 2026-04-06 | 100 | 44286 | 3220 | 25496 | 5421 | 81124 |
-| 360d | 2025-10-08 | 100 | 49276 | 3230 | 51373 | 5938 | 111107 |
-| last720d | 2024-10-13 | 100 | 49276 | 3230 | 51373 | 5938 | 104383 |
+| 30d | 2026-09-04 | 13 | 15651 | 2202 | 3341 | 3012 | 13387 |
+| last60d | 2026-08-05 | 21 | 26625 | 2859 | 7281 | 4171 | 27972 |
+| 90d | 2026-07-06 | 32 | 36348 | 3144 | 10932 | 4788 | 40535 |
+| last180d | 2026-04-07 | 100 | 44687 | 3274 | 25294 | 5471 | 78608 |
+| 360d | 2025-10-09 | 100 | 49732 | 3284 | 51513 | 5990 | 111705 |
+| last720d | 2024-10-14 | 100 | 49732 | 3284 | 51513 | 5990 | 104919 |
 
 ## Release assets
 
 | Asset | Size | Target |
 |-------|-----:|--------|
 | [latest.json](https://github.com/openclaw/openclaw/releases/download/v2026.9.8/latest.json) | 3.6 KiB | `other` |
+| [OpenClaw-2026.9.8-arm64.dmg](https://github.com/openclaw/openclaw/releases/download/v2026.9.8/OpenClaw-2026.9.8-arm64.dmg) | 162.0 MiB | `other` |
+| [OpenClaw-2026.9.8-arm64.dSYM.zip](https://github.com/openclaw/openclaw/releases/download/v2026.9.8/OpenClaw-2026.9.8-arm64.dSYM.zip) | 34.7 MiB | `other` |
+| [OpenClaw-2026.9.8-arm64.zip](https://github.com/openclaw/openclaw/releases/download/v2026.9.8/OpenClaw-2026.9.8-arm64.zip) | 239.6 MiB | `other` |
 | [openclaw-2026.9.8-dependency-evidence.zip](https://github.com/openclaw/openclaw/releases/download/v2026.9.8/openclaw-2026.9.8-dependency-evidence.zip) | 289.6 KiB | `other` |
 | [openclaw-2026.9.8-postpublish-evidence.json](https://github.com/openclaw/openclaw/releases/download/v2026.9.8/openclaw-2026.9.8-postpublish-evidence.json) | 22.3 KiB | `other` |
 | [openclaw-2026.9.8-postpublish-evidence.json.sha256](https://github.com/openclaw/openclaw/releases/download/v2026.9.8/openclaw-2026.9.8-postpublish-evidence.json.sha256) | 110 B | `other` |
 | [openclaw-2026.9.8-release-manifest.json](https://github.com/openclaw/openclaw/releases/download/v2026.9.8/openclaw-2026.9.8-release-manifest.json) | 258.6 KiB | `other` |
 | [openclaw-2026.9.8-release-manifest.json.sha256](https://github.com/openclaw/openclaw/releases/download/v2026.9.8/openclaw-2026.9.8-release-manifest.json.sha256) | 106 B | `other` |
+| [openclaw-2026.9.8-stable-main-closeout.json](https://github.com/openclaw/openclaw/releases/download/v2026.9.8/openclaw-2026.9.8-stable-main-closeout.json) | 1.7 KiB | `other` |
+| [openclaw-2026.9.8-stable-main-closeout.json.sha256](https://github.com/openclaw/openclaw/releases/download/v2026.9.8/openclaw-2026.9.8-stable-main-closeout.json.sha256) | 110 B | `other` |
+| [OpenClaw-2026.9.8-x86_64.dmg](https://github.com/openclaw/openclaw/releases/download/v2026.9.8/OpenClaw-2026.9.8-x86_64.dmg) | 174.5 MiB | `other` |
+| [OpenClaw-2026.9.8-x86_64.dSYM.zip](https://github.com/openclaw/openclaw/releases/download/v2026.9.8/OpenClaw-2026.9.8-x86_64.dSYM.zip) | 36.8 MiB | `other` |
+| [OpenClaw-2026.9.8-x86_64.zip](https://github.com/openclaw/openclaw/releases/download/v2026.9.8/OpenClaw-2026.9.8-x86_64.zip) | 249.4 MiB | `other` |
+| [OpenClaw-2026.9.8.dmg](https://github.com/openclaw/openclaw/releases/download/v2026.9.8/OpenClaw-2026.9.8.dmg) | 328.6 MiB | `other` |
+| [OpenClaw-2026.9.8.dSYM.zip](https://github.com/openclaw/openclaw/releases/download/v2026.9.8/OpenClaw-2026.9.8.dSYM.zip) | 71.5 MiB | `other` |
+| [OpenClaw-2026.9.8.zip](https://github.com/openclaw/openclaw/releases/download/v2026.9.8/OpenClaw-2026.9.8.zip) | 478.6 MiB | `other` |
 
 ## Improve this data
 
@@ -75,4 +86,4 @@ Install metadata for openclaw lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261003.yml` · 2026-10-03T05:33:51Z._
+_Snapshot: `data/card/261004.yml` · 2026-10-04T06:12:25Z._
